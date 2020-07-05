@@ -1,5 +1,5 @@
 films = {
-    "Micky Mouse":[3,5],
+    "Mickey Mouse":[3,5],
     "Bourne":[18,5],
     "Tarzan":[15,5],
     "Ghost Busters":[12,5]
